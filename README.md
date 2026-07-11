@@ -67,14 +67,14 @@
     "Contribute to real-world, impactful software projects",
   ]
 
-  Hobbies: ["Music", "Art & design", "Watching cricket & football"]
-
   values:
     - "shipping things that are technically defensible"
     - "honesty over hype — I'd rather undersell than overclaim"
     - "trying to understand a system fully before calling it done"
     - "clear communication over clever jargon"
     - "consistency over sporadic bursts of effort"
+
+  hobbies: ["Music", "Art & design", "Watching cricket & football"]
 ```
 
 <h3 align="center">🛠️ tools i build with</h3>
