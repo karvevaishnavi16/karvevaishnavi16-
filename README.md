@@ -26,36 +26,48 @@
 <h3 align="center">🧵 quick intro</h3>
 
 ```yaml
-about_me:
+ about_me:
   name: "Vaishnavi Karve"
   located_in: "Pune, Maharashtra, India"
   role: "Third-year B.Tech IT student, Cummins College of Engineering for Women"
   cgpa: "9.2 / 10"
 
-  focus:
-    - "Full-stack development (React, Node/Express, MySQL)"
-    - "Applied AI features — agentic tool-calling flows with the Gemini API"
-    - "Product architecture — scoping, system design, end-to-end ownership"
-    - "Security-conscious backend practices (JWT auth, bcrypt, env-based config)"
+ current_focus:
+  [
+    "Data Structures & Algorithms",
+    "System Design Fundamentals",
+    "Building full-stack projects",
+    "Exploring AI and agentic systems",
+    "Learning new tools and technologies",
+    "SDE Internship Preparation",
+  ]
 
   teams:
     - "AICVS (AI & Computer Vision Society) — Web Development Team"
-    - "Team TriCoders — hackathons, with Trupti & Tejal"
-  role_in_a_team: "product architecture, ideation, integration"
-
-  hackathons:
-    - "Google AI Solution Challenge 2026"
-    - "Equinox Innovation 2026"
-    - "WSI AI-thon"
 
   currently_learning:
-    - "System design (Karan Pratap Singh's course + TUF practice problems)"
-    - "DSA in C++"
-    - "TypeScript"
+    - "System design"
+    - "React Native
+    - "AI"
 
-  goal_2026: "Land an SDE internship, and take ReturnIQ from solo build to something I'd confidently ship"
+  fields_of_interests:
+  [
+    "Full-Stack Development",
+    "Artificial Intelligence",
+    "Database Systems",
+    "Data Structures & Algorithms",
+    "System Design",
+  ]
 
-  interests: ["Music", "Art & design", "Watching cricket & football"]
+  goals:
+  [
+    "Land an SDE internship in 2026",
+    "Build strong fundamentals in DSA and system design",
+    "Deepen understanding of full-stack development and AI systems",
+    "Contribute to real-world, impactful software projects",
+  ]
+
+  Hobbies: ["Music", "Art & design", "Watching cricket & football"]
 
   values:
     - "shipping things that are technically defensible"
