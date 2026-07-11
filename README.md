@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:7C3AED,100:EC4899&height=230&section=header&text=Vaishnavi%20Karve&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20developer%20in%20training%20%7C%20AI-curious%20builder%20%7C%20SDE%20internship%202026&descAlignY=55&descSize=17" alt="Vaishnavi Karve profile header" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:7C3AED,100:EC4899&height=210&section=header&text=Hi,%20I'm%20Vaishnavi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Vaishnavi Karve profile header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=EC4899&center=true&vCenter=true&width=850&lines=Building+ReturnIQ+%E2%80%94+AI+return+fraud+intelligence;React+%2B+Node.js+%2B+MySQL+%2B+Gemini+API;Product+architecture+%2B+clean+backend+flows;DSA+%2B+system+design+%2B+internship+prep" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=EC4899&center=true&vCenter=true&width=850&lines=Aspiring+Software+Development+Engineer;Building+full-stack+projects;Exploring+AI-powered+software;Preparing+for+SDE+internships" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,82 +16,75 @@
   <a href="https://github.com/karvevaishnavi16">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-HANDLE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+ <a href="https://leetcode.com/u/Vaishnavi_karve/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
 </p>
 
-<br />
+---
 
-<table>
+<h3 align="center">Quick intro</h3>
+
+## 👋 About Me
+
+- 🎓 Third-year B.Tech IT Student at Cummins College of Engineering for Women
+- 📍 Pune, Maharashtra, India
+- 📈 CGPA: 9.2/10
+
+### Focus Areas & Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mastering-Advanced%20DSA-EC4899?style=for-the-badge" alt="Mastering Advanced Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design-7C3AED?style=for-the-badge" alt="Learning System Design & Scalable Architecture" />
+  <img src="https://img.shields.io/badge/Building-AI--Powered%20Full--Stack-0EA5E9?style=for-the-badge" alt="Building AI-Powered Full-Stack Applications" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20Agentic%20Systems-F59E0B?style=for-the-badge" alt="Exploring AI & Agentic Systems" />
+  <img src="https://img.shields.io/badge/Building-Developer%20Productivity%20Tools-3B82F6?style=for-the-badge" alt="Building Developer Productivity Tools" />
+  <img src="https://img.shields.io/badge/Learning-Software%20Engineering-6366F1?style=for-the-badge" alt="Learning Software Engineering Best Practices" />
+  <img src="https://img.shields.io/badge/Solving-Real--World%20Engineering%20Problems-14B8A6?style=for-the-badge" alt="Solving Real-World Engineering Problems" />
+  <img src="https://img.shields.io/badge/Participating-Hackathons%20%26%20Workshops-E11D48?style=for-the-badge" alt="Participating in Hackathons, Workshops & Technical Events" />
+  <img src="https://img.shields.io/badge/Learning-New%20Tools%20%26%20Technologies-10B981?style=for-the-badge" alt="Continuously Learning New Tools & Technologies" />
+  <img src="https://img.shields.io/badge/Preparing-SDE%20Internships%202026%2F27-2563EB?style=for-the-badge" alt="Preparing for SDE Internships (2026/27)" />
+</p>
+
+
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
 
-### About me
+<td width="50%" valign="top">
 
-```yaml
-name: Vaishnavi Karve
-location: Pune, Maharashtra, India
-education: Third-year B.Tech IT student
-college: Cummins College of Engineering for Women
-cgpa: 9.2 / 10
+### 🎯 Goals
 
-current_focus:
-  - Full-stack development with React, Node.js, Express and MySQL
-  - Applied AI features with Gemini API and agentic tool-calling flows
-  - DSA in C++ and system design fundamentals
-  - Writing backend code that is clean, secure and maintainable
-
-team:
-  - AICVS Web Development Team
-  - Team TriCoders for hackathons
-
-goal_2026: Land an SDE internship and ship stronger real-world projects
-```
+- Secure an SDE Internship (2026/27)
+- Master Advanced Data Structures & Algorithms
+- Learn Scalable System Design
+- Build AI-Powered Full-Stack Applications
+- Contribute to impactful real-world software
 
 </td>
-<td width="42%" valign="top">
 
-### Snapshot
+<td width="50%" valign="top">
 
-- Building **ReturnIQ**, an AI return fraud intelligence platform
-- Interested in **full-stack engineering, AI systems and product architecture**
-- Comfortable around **React, Node/Express, MySQL, Firebase and C++**
-- Values: clear communication, honest work, and technical depth
+### 🌱 Values
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=karvevaishnavi16&show_icons=true&theme=radical&hide_border=true&title_color=EC4899&icon_color=EC4899&text_color=E5E7EB&bg_color=0F172A" alt="GitHub stats" />
+- Continuous learning over perfection
+- Build before seeking perfection
+- Quality over quantity
+- Solve problems with simplicity and clarity
+- Stay curious and keep improving
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### Tech stack
+<h3 align="center">tools i build with</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mysql,firebase,tailwind,git,github,vscode,figma&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mysql,firebase,tailwind,git,github,vscode,figma&theme=dark" alt="C++, JavaScript, TypeScript, React, Node.js, Express, MySQL, Firebase, Tailwind CSS, Git, GitHub, VS Code and Figma" />
 </p>
 
----
-
-### Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ReturnIQ — AI Return Intelligence Platform
-
-Solo one-week build with a Gemini-powered fraud scoring agent, AI support chatbot, JWT auth, MySQL, React/Vite/Tailwind and Node/Express.
-
-`Gemini API` `React` `Node.js` `MySQL` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-#### AuthentiKit — Deepfake Detection Platform
-
-Built for Google AI Solution Challenge 2026 with Team TriCoders. Led ideation, product architecture and presentation.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,55:7C3AED,100:0F172A&height=100&section=footer" alt="Footer wave" />
+</p>
