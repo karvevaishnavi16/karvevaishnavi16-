@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="www.linkedin.com/in/vaishnavi-karve-22a816204">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/Email-BA55D3?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/karvevaishnavi16">
