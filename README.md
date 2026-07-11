@@ -129,7 +129,7 @@ Node.js/Express/MySQL system built as a DBMS mini-project, hardened with real se
 
 **🏙️ Smart City Crisis & Fair Response Engine**
 A C++ system for prioritizing and routing city resources during overlapping crisis events. Uses priority queues/heaps for incident ranking and graph traversal (BFS/DFS) for resource routing, with fair, rule-based allocation logic across multiple simultaneous incidents.
-`C++` `Priority Queues` `Heaps` `Graphs (BFS/DFS)`
+`C++` `Priority Queues` `Heaps` `Graphs (BFS, Dijkstra)`
 
 </td>
 </tr>
