@@ -6,7 +6,7 @@
   <a href="www.linkedin.com/in/vaishnavi-karve-22a816204">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="karvevaishnavi16@gmail.com">
+  <a href="mailto:karvevaishnavi16@gmail.com">
     <img src="https://img.shields.io/badge/Email-BA55D3?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/karvevaishnavi16">
@@ -22,17 +22,17 @@
 ```yaml
 about_me:
   role: "Third-year B.Tech IT student, Cummins College of Engineering for Women, Pune"
-  focus: "Full-stack development, applied AI features, product architecture"
-  current_goal: "SDE internship recruitment — July/August 2026"
   cgpa: "9.2 / 10"
+  focus: "Full-stack development, applied AI features, product architecture"
+  currently: "Preparing for SDE internship recruitment — July/August 2026"
   teams:
     - "AICVS (AI & Computer Vision Society) — Web Development Team"
-    - "Team TriCoders — hackathons (with Trupti & Tejal)"
-  what_i_do_in_a_team: "product architecture, ideation, integration"
   values:
     - "shipping things that are technically defensible"
     - "honesty over hype — I'd rather undersell than overclaim"
-    - "building end-to-end, not just the demo-able parts"
+    - "trying to understand a system fully before calling it done"
+    - "clear communication over clever jargon"
+    - "consistency over sporadic bursts of effort"
 ```
 
 <h3 align="center">🛠️ tools i build with</h3>
@@ -59,7 +59,7 @@ about_me:
 <td width="50%" valign="top">
 
 **🔍 ReturnIQ — AI Return Intelligence Platform**
-Solo one-week build. Gemini-powered agentic fraud-scoring agent with a real tool-calling loop, an AI support chatbot, JWT auth, MySQL, React/Vite/Tailwind + Node/Express.
+Gemini-powered agentic fraud-scoring agent with a real tool-calling loop, an AI support chatbot, JWT auth, MySQL, React/Vite/Tailwind + Node/Express.
 `Gemini API` `Node.js` `React` `MySQL` `JWT`
 
 </td>
@@ -81,9 +81,12 @@ Node.js/Express/MySQL system built as a DBMS mini-project, hardened with real se
 </td>
 <td width="50%" valign="top">
 
-**🏙️ Smart City Crisis & Fair Response Engine**
-C++ crisis-response system, rebuilt standalone from an earlier hackathon project.
-`C++` `Algorithms`
+  **🏙️ Smart City Crisis & Fair Response Engine**
+A C++ system for prioritizing and routing city resources during overlapping
+crisis events. Uses priority queues/heaps for incident ranking and graph
+traversal for resource routing, with fair, rule-based allocation
+logic across multiple simultaneous incidents rather than a single-emergency model.
+`C++` `Priority Queues` `Heaps` `Graphs (BFS/DFS)` 
 
 </td>
 </tr>
