@@ -47,8 +47,8 @@
 
   currently_learning:
     - "System design"
-    - "React Native
-    - "AI"
+    - "React Native (getting started)"
+    - "AI and agentic workflows"
 
   fields_of_interests:
   [
