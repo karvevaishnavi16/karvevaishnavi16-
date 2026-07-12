@@ -40,12 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>
 </p>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karvevaishnavi16&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karvevaishnavi16&theme=chartreuse-dark&hide_border=true" width="49%"/>
-</div>
 
 ## GitHub Contribution
 
