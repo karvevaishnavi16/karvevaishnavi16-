@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c6ff&height=180&section=header&text=Hi%20there,%20I'm%20Vaishnavi%20Pramod%20Karve%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c6ff&height=180&section=header&text=Hi%20there,%20I'm%20Vaishnavi%20Pramod%20Karve%20%F0%9F%91%8B&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Third-Year+IT+Student+at+Cummins+College;Exploring+Full-Stack+Development+%26+AI%2FML" alt="Typing SVG" />
 
 <a href="https://linkedin.com/in/vaishnavi-karve-22a816204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ffcc"/></a>
+<a href="mailto:karvevaishnavi16@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ffcc"/></a>
 <a href="https://github.com/karvevaishnavi16"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/Vaishnavi_karve"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Third-Year+IT+Student+at+Cummins+College;Exploring+Full-Stack+Development+%26+AI%2FML" alt="Typing SVG" />
 
 </div>
 
 ### About Me
 
-- 🎓 Third-year B.Tech IT student at Cummins College of Engineering for Women
-- 📍 Pune, Maharashtra, India
-- 📝 CGPA: 9.2/10
+- 🎓 Third-year B.Tech IT student at Cummins College of Engineering for Women, Pune | CGPA: 9.2/10
+- 💻 Passionate about Full-Stack Development & AI-powered Applications
+- 📚 Learning System Design, AI, and full-stack technologies
+- 🌱 Always eager to learn, build, and collaborate on impactful projects
 
 ### Focus Areas & Interests
 
